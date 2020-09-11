@@ -1,1 +1,1 @@
-# TwoActivitiesLifecycle
+# AndroidTwoActivites
